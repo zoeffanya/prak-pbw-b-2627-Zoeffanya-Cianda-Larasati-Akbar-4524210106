@@ -91,7 +91,7 @@ Screenshot Sesudah Modifikasi
 
 Screenshot berikut menunjukkan tampilan program setelah dilakukan modifikasi.
 
-![Screenshot Sesudah](screenshots/Sesudah.png)
+![Screenshot Sesudah](screenshots/sesudah.png)
 
 
 ## **5. Error yang Pernah Muncul**
